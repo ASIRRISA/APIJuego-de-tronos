@@ -112,4 +112,5 @@ try:
         input("Pulse una tecla para terminar...")
 
 except:
+    
     print("Ha ocurrido algun error")
